@@ -42,7 +42,7 @@ section {
 }
 
 #home {
-    background: url(file:///C|/Users/Sofiat/Desktop/practise/bootstrap-3.3.5-dist/new.jpg) no-repeat center; /*Full Witdth background image*/
+    background: url(new.jpg) no-repeat center; /*Full Witdth background image*/
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
@@ -75,7 +75,7 @@ section {
 		}
 		
 	#works{
-		background: url(file:///C|/Users/Sofiat/Desktop/practise/bootstrap-3.3.5-dist/DeathtoStock_Medium8.jpg) no-repeat center center;
+		background: url(DeathtoStock_Medium8.jpg) no-repeat center center;
 		padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
