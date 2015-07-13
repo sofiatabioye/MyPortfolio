@@ -1,0 +1,126 @@
+
+body {
+ 
+    font-family: 'Roboto', sans-serif;
+}
+
+section {
+    padding-top: 80px;
+    padding-bottom: 120px;
+}
+
+.head-set {
+    padding-top: 80px;
+    padding-bottom: 20px;
+	color: #F0C;
+	text-align:center;
+	background-position:center;
+	
+}
+
+.pad-bottom {
+    padding-bottom: 60px;
+}
+
+.navbar-default {
+    background-color: rgb(35, 133, 161) ;
+    border-color: transparent;
+    color: #fff;
+}
+
+    .navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:hover {
+        color: #fff;
+    }
+
+.navbar-brand {
+    padding: 7px;
+	
+	
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color:#fff;
+}
+
+#home {
+    background: url(file:///C|/Users/Sofiat/Desktop/practise/bootstrap-3.3.5-dist/new.jpg) no-repeat center; /*Full Witdth background image*/
+    padding: 0;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+    min-height: 600px;
+}
+    
+    #home .overlay {
+        padding-top: 90px;
+        background-color: rgba(35, 133, 161,0.75); /*.75 opacity of the color so that background image is visible*/
+        min-height: 600px;
+        color: #fff;
+    }
+
+    #home h1 {
+        padding-top: 90px;
+        font-weight: 700;
+        font-size: 60px;
+        font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+		
+    }
+	#about{
+		background-color:#fff;
+		
+		padding: 0;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+    min-height: 600px;
+		}
+		
+	#works{
+		background: url(file:///C|/Users/Sofiat/Desktop/practise/bootstrap-3.3.5-dist/DeathtoStock_Medium8.jpg) no-repeat center center;
+		padding: 0;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+    min-height: 600px;
+		}
+		
+		#contact{
+			background-color:#fff;
+		padding: 0;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+    min-height: 600px;
+		}
+		
+
+ .p-cls {
+    padding-top: 50px;
+    padding-bottom: 50px;
+	font-size:36px;
+	color: #F0C;
+	
+}
+   .tform {
+	   padding-top: 60px;
+	   padding-bottom: 50px;
+	   font-size:36px;
+	   font-family:Georgia, "Times New Roman", Times, serif;
+	   color:#F0C;
+	   
+	   
+	   
+	   }
+
+footer {
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 900;
+    background-color: rgb(35, 133, 161);
+    color: #fff;
+}
+
+    footer a, footer a:hover {
+        color: #fff;
+        text-decoration: none;
+    }
